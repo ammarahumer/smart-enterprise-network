@@ -11,11 +11,7 @@ Cisco Packet Tracer Computer Network Project
 
 ---
 
-## 🚀 Live Demo
-
-**Coming Soon**
-
-> Live Demo: **____________________________**
+## 🚀 Live Demo: https://ammarahumer.github.io/smart-enterprise-network/
 
 ---
 
