@@ -1,7 +1,5 @@
 # 🌐 Smart Enterprise Network
 
-![Project Preview](preview.jpeg)
-
 Cisco Packet Tracer Computer Network Project
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
