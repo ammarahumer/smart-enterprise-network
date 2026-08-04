@@ -1,6 +1,6 @@
 # 🌐 Smart Enterprise Network
 
-![Portfolio Preview](preview.jpg)
+![Project Preview](preview.jpg)
 
 Cisco Packet Tracer Computer Network Project
 
