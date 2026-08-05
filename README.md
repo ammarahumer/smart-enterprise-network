@@ -2,14 +2,12 @@
 
 Cisco Packet Tracer Computer Network Project
 
+![Portfolio Preview](preview.jpeg)
+
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
 ![Networking](https://img.shields.io/badge/Networking-Enterprise-success)
 ![Static Routing](https://img.shields.io/badge/Static%20Routing-Configured-orange)
 ![VLAN](https://img.shields.io/badge/VLAN-Implemented-red)
-
----
-
-## 🚀 Live Demo: https://ammarahumer.github.io/smart-enterprise-network/
 
 ---
 
