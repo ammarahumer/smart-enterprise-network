@@ -1,8 +1,8 @@
-# 🌐 Smart Enterprise Network
+# Smart Enterprise Network
 
-Cisco Packet Tracer Computer Network Project
+**Cisco Packet Tracer Enterprise Network Simulation**
 
-![Portfolio Preview](preview.jpeg)
+![Smart Enterprise Network Preview](preview.jpeg)
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
 ![Networking](https://img.shields.io/badge/Networking-Enterprise-success)
@@ -11,7 +11,7 @@ Cisco Packet Tracer Computer Network Project
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 Smart Enterprise Network is a complete enterprise-level network simulation developed using **Cisco Packet Tracer**. The project demonstrates how a real organization can securely connect multiple departments using routers, switches, VLANs, centralized servers, and routing technologies.
 
@@ -21,7 +21,7 @@ This project was developed as part of the **Computer Networks Lab** course and r
 
 ---
 
-# 🏢 Network Overview
+# Network Overview
 
 The network consists of:
 
@@ -42,7 +42,7 @@ The project follows a **Hierarchical Network Design** consisting of:
 
 ---
 
-# ✨ Features
+# Features
 
 - Enterprise Network Design
 - VLAN Segmentation
@@ -63,7 +63,7 @@ The project follows a **Hierarchical Network Design** consisting of:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 ## Networking
 
@@ -87,7 +87,7 @@ The project follows a **Hierarchical Network Design** consisting of:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 smart-enterprise-network/
@@ -102,7 +102,7 @@ smart-enterprise-network/
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 ## Clone Repository
 
@@ -126,7 +126,7 @@ TechNova_Smart_Enterprise_Network.pkt
 
 ---
 
-# 🧪 Services Implemented
+# Services Implemented
 
 - DHCP Server
 - DNS Server
@@ -141,7 +141,7 @@ TechNova_Smart_Enterprise_Network.pkt
 
 ---
 
-# 🧪 Network Testing
+# Network Testing
 
 The project has been tested successfully for:
 
@@ -158,7 +158,7 @@ The project has been tested successfully for:
 
 ---
 
-# 🎯 Future Improvements
+# Future Improvements
 
 Planned improvements include:
 
@@ -173,7 +173,7 @@ Planned improvements include:
 
 ---
 
-# 📚 Documentation
+# Documentation
 
 The repository includes:
 
@@ -184,12 +184,11 @@ The repository includes:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Ammarah Umer**
 
-Bachelor of Science in Computer Science (BSCS)
-
+Bachelor of Science in Computer Science (BSCS) Student 
 Iqra University — Airport Campus, Karachi
 
 Interested in:
@@ -202,7 +201,7 @@ Interested in:
 
 ---
 
-# 🔗 Connect With Me
+# Connect With Me
 
 **GitHub**
 
@@ -211,7 +210,3 @@ https://github.com/ammarahumer
 **LinkedIn**
 
 https://linkedin.com/in/ammarahumer
-
----
-
-⭐ If you found this project helpful, consider giving it a star.
